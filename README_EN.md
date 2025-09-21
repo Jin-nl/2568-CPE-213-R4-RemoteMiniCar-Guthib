@@ -82,24 +82,36 @@ lib_deps =
    - Run the script to control via Bluetooth using keyboard
    - 
 ## Equipment
-![4 Wheel MiniCar Kit](images/CarKit.jpg)
 
-![ESP32-WROOM32 With WiFi and Bluetooth](images/ESP32.png)
+### 4 Wheels MiniCar Kit
+<img src="images/CarKit.jpg" alt="4 Wheel MiniCar Kit" width="300"/>
 
-![DC Motor 6V 1:48](images/motor.jpg)
+### ESP32-WROOM32 With WiFi and Bluetooth
+<img src="images/ESP32.png" alt="ESP32-WROOM32 With WiFi and Bluetooth" width="300"/>
 
-![L298N Driver Board](images/L298N.jpg)
+### DC Motor 6V 1:48
+<img src="images/motor.jpg" alt="DC Motor 6V 1:48" width="300"/>
 
-![OLED Display 128 x 64](images/oled_display.jpg)
+### L298N Driver Board
+<img src="images/L298N.jpg" alt="L298N Driver Board" width="300"/>
 
-![Ultrasonic Sensor HC-SR04](images/Ultrasonic.jpg)
+### OLED Display 128 x 64
+<img src="images/oled_display_.jpg" alt="OLED Display 128 x 64" width="300"/>
+
+### Ultrasonic Sensor HC-SR04
+<img src="images/Ultrasonic.jpg" alt="Ultrasonic Sensor HC-SR04" width="300"/>
 
 ## Block Diagram
-![Block Diagram](images/Remote_Mini_Car_Block_Diagram.png)
+<img src="images/Remote_Mini_Car_Block_Diagram.png" alt="Block Diagram" width="500"/>
 
 ## Car Versions
-![Remote Mini Car First Version - Connects Motors with Batteries](images/V1.jpg)
 
-![Remote Mini Car Second Version - Connects L298N Driver Boards with Motors](images/V2.jpg)
+### Remote Mini Car First Version - Connects Motors with Batteries
+<img src="images/V1.jpg" alt="Remote Mini Car First Version" width="400"/>
 
-![Remote Mini Car Third Version - Connects L298N Driver Boards with ESP32-WROOM32](images/V3.jpg)
+### Remote Mini Car Second Version - Connects L298N Driver Boards with Motors
+<img src="images/V2.jpg" alt="Remote Mini Car Second Version" width="400"/>
+
+### Remote Mini Car Third Version - Connects L298N Driver Boards with ESP32-WROOM32
+<img src="images/V3.jpg" alt="Remote Mini Car Third Version" width="400"/>
+
