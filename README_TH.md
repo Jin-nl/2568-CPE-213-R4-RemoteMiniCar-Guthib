@@ -78,6 +78,40 @@ lib_deps =
 -  เปิดไฟล์ pc_bt_control.py
    - ตั้งค่าพอร์ตอนุกรมบลูทูธ
    - รันสคริปต์เพื่อควบคุมผ่านบลูทูธโดยใช้แป้นพิมพ์
+     
+## อุปกรณ์
+
+### ชุดรถบังคับ 4 ล้อ
+<img src="images/CarKit.jpg" alt="4 Wheel MiniCar Kit" width="300"/>
+
+### ESP32-WROOM32 พร้อม WiFi และ Bluetooth
+<img src="images/ESP32.png" alt="ESP32-WROOM32 With WiFi and Bluetooth" width="300"/>
+
+### มอเตอร์กระแสตรง 6V 1:48
+<img src="images/motor.jpg" alt="DC Motor 6V 1:48" width="300"/>
+
+### บอร์ดไดรเวอร์ L298N
+<img src="images/L298N.jpg" alt="L298N Driver Board" width="300"/>
+
+### จอ OLED 128 x 64
+<img src="images/oled_display_.jpg" alt="OLED Display 128 x 64" width="300"/>
+
+### เซนเซอร์อัลตราโซนิก HC-SR04
+<img src="images/Ultrasonic.jpg" alt="Ultrasonic Sensor HC-SR04" width="300"/>
+
+## บล็อกไดอะแกรม
+<img src="images/Remote_Mini_Car_Block_Diagram.png" alt="Block Diagram" width="500"/>
+
+## เวอร์ชันของรถ
+
+### เวอร์ชันแรก – ต่อมอเตอร์เข้ากับแบตเตอรี่โดยตรง
+<img src="images/V1.jpg" alt="Remote Mini Car First Version" width="400"/>
+
+### เวอร์ชันที่สอง – ใช้บอร์ด L298N เชื่อมกับมอเตอร์
+<img src="images/V2.jpg" alt="Remote Mini Car Second Version" width="400"/>
+
+### เวอร์ชันที่สาม – เชื่อม ESP32-WROOM32 เข้ากับ L298N และมอเตอร์
+<img src="images/V3.jpg" alt="Remote Mini Car Third Version" width="400"/>
 
 
 
