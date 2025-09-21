@@ -104,6 +104,9 @@ lib_deps =
 ## Block Diagram
 <img src="images/Remote_Mini_Car_Block_Diagram.png" alt="Block Diagram" width="500"/>
 
+## Circuit Diagram
+<img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="500"/>
+
 ## Car Versions
 
 ### Remote Mini Car First Version - Connects Motors with Batteries
