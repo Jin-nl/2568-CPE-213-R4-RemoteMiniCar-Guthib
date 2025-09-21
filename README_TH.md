@@ -102,6 +102,9 @@ lib_deps =
 ## บล็อกไดอะแกรม
 <img src="images/Remote_Mini_Car_Block_Diagram.png" alt="Block Diagram" width="500"/>
 
+## เซอร์กิตไดอะแกรม
+<img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="500"/>
+
 ## เวอร์ชันของรถ
 
 ### เวอร์ชันแรก – ต่อมอเตอร์เข้ากับแบตเตอรี่โดยตรง
