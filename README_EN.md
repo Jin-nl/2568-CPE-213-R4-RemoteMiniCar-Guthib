@@ -80,3 +80,12 @@ lib_deps =
 -  Open pc_bt_control.py:
    - Set the Bluetooth serial port
    - Run the script to control via Bluetooth using keyboard
+## Block Diagram
+![Block Diagram](images/Remote_Mini_Car_Block_Diagram.png)
+
+## Car Versions
+![Remote Mini Car First Version - Connects Motors with Batteries](images/V1.png)
+
+![Remote Mini Car Second Version - Connects L298N Driver Boards with Motors](images/V2.png)
+
+![Remote Mini Car Third Version - Connects L298N Driver Boards with ESP32-WROOM32](images/V3.png)
