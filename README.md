@@ -9,3 +9,6 @@ Welcome to the ESP32 Hybrid Car project!
 
 You can switch languages by clicking the links above.  
 คุณสามารถเปลี่ยนภาษาได้โดยคลิกที่ลิงก์ด้านบน
+
+presentation link
+http://tiny.cc/Minicar
