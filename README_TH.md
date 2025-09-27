@@ -136,13 +136,8 @@ pip install paho-mqtt pyserial keyboard
 ## บล็อกไดอะแกรม
 <img src="images/Remote_Mini_Car_Block_Diagram.png" alt="Block Diagram" width="500"/>
 
-<<<<<<< HEAD
 ## ไดอะแกรมวงจร
 <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="500"/>
-=======
-## เซอร์กิตไดอะแกรม
-<img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="500"/>
->>>>>>> c6f35cf5d0dd22ff7d76a371ed5a9208515792dd
 
 ## เวอร์ชันของรถ
 
